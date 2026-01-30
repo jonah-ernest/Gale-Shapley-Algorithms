@@ -1,6 +1,6 @@
 # Stable Matching Algorithms in Java (Gale–Shapley)
 
-This repository contains an algorithms project implementing the Gale–Shapley stable matching algorithm in Java completed in Fall 2022.
+This repository contains an algorithms project implementing the Gale–Shapley stable matching algorithm in Java completed in Fall 2021.
 
 The project evolves across three versions, starting from a student–school matching system and progressing toward a generalized stable matching framework using shared abstractions and solver classes.
 
